@@ -1,0 +1,1 @@
+Radius lookups will be generated in this folder. However, currently only one guid is used, so each lookup will overwrite the file.
